@@ -1,0 +1,52 @@
+.box {
+  margin: 10vh 20vw;
+}
+
+.container {
+  background: rgb(236, 236, 236);
+  padding: 20px;
+  margin: auto;
+  margin-bottom: 30px;
+  font-size: 1em;
+}
+#input1 {
+  font-size: 20px;
+  margin: 10px;
+  width: 100px;
+  font-family: "Helvetica";
+  text-align: center;
+  padding: 14px 24px;
+}
+.btn {
+  font-size: 14px;
+  border: none;
+  color: white;
+  background-color: grey;
+  margin: 0 0px 0 10px;
+  padding: 15px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 1s, color, 1s;
+}
+
+#btn:hover {
+  font-weight: 900;
+}
+
+.instructions {
+  padding: 20px;
+  font-size: 14px;
+  background: rgb(236, 236, 236);
+}
+
+li {
+  display: inline-block;
+  margin: 10px 10px;
+  padding-left: 50px;
+}
+
+* {
+  font-family: Helvetica;
+  /* font-size: 20px; */
+  padding: 0px;
+}
