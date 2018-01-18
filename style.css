@@ -3,12 +3,14 @@
 }
 
 .container {
-  background: rgb(236, 236, 236);
+  background: #1565c0;
+  color: white;
   padding: 20px;
   margin: auto;
   margin-bottom: 30px;
-  font-size: 1em;
+  font-size: 2rem;
 }
+
 #input1 {
   font-size: 20px;
   margin: 10px;
@@ -18,10 +20,10 @@
   padding: 14px 24px;
 }
 .btn {
-  font-size: 14px;
+  font-size: 1.5rem;
   border: none;
   color: white;
-  background-color: grey;
+  background-color: #003c8f;
   margin: 0 0px 0 10px;
   padding: 15px 24px;
   text-align: center;
@@ -36,7 +38,7 @@
 .instructions {
   padding: 20px;
   font-size: 14px;
-  background: rgb(236, 236, 236);
+  background: #5e92f3;
 }
 
 li {

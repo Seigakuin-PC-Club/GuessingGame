@@ -10,6 +10,3 @@
 // use Math.random() / Math.floor()
 
 // set setTimeout for outputDOM
-
-// comment added to master
-// another comment
